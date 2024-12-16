@@ -8,4 +8,6 @@
     <span>HOME</span>
 </template>
 
-<style scoped></style>
+<style scoped>
+
+</style>
